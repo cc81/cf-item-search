@@ -1,0 +1,40 @@
+body{
+
+}
+
+.content{
+  margin:15px;
+}
+
+.right{
+  float: right;
+}
+
+.left{
+  float:left;
+}
+
+.character{
+  margin: 5px 0;
+}
+
+.inputWidth{
+  width:200px;
+  margin-right: 25px;
+}
+
+.searchWidth{
+  width:425px;
+}
+
+.header{
+  height:55px;
+  padding-left:15px;
+  background-color: #33C3F0;
+  color:#fff;
+}
+
+.remove{
+  color:#33C3F0;
+  cursor: pointer;
+}
